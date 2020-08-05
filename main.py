@@ -1,3 +1,6 @@
+
 a = 1
-b = 2
-print(a + b)
+c = 2
+print(a + c)
+
+print("sehyeon")
